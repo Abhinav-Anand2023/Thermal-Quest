@@ -1,7 +1,7 @@
 # Digital Thermometer using ESP32
 
 ## Project Overview
-This project is a **Digital Thermometer** built using an **ESP32 NodeMCU-32S** microcontroller. It measures **temperature** and **humidity** using a **DHT11 sensor** and displays the data on:
+**Digital Thermometer** built using an **ESP32 NodeMCU-32S** microcontroller. It measures **temperature** and **humidity** using a **DHT11 sensor** and displays the data on:
 - A **TM1637 4-digit 7-segment display**
 - A **16x2 LCD (parallel) display**
 
