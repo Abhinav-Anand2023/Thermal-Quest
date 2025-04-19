@@ -47,7 +47,13 @@ The data shown on the 4-digit display depends on the state of a **toggle switch*
 ---
 
 ##  Wiring Diagram
-> *()*
+
+<object data="images/Schematic_Thermometer.pdf" type="application/pdf" width="100%" height="600">
+  <p>Your browser doesn’t support inline PDFs.  
+     <a href="images/Schematic_Thermometer.pdf">Download the PDF</a> instead.
+  </p>
+</object>
+
 
 ---
 
