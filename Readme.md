@@ -95,6 +95,14 @@ Built using **ESP32, Arduino IDE**, and open-source libraries.
 > *()*
 
 ---
+### KiCad PCB Layout
+Custom PCB layout designed for the digital thermometer using KiCad. The board integrates all components on a single PCB.
+
+![PCB Layout](assets/PCB_print_files.pdf)
+
+> *Custom PCB layout created using KiCad.*
+
+---
 
 ## License
 ---
