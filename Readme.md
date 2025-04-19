@@ -95,3 +95,10 @@ Built using **ESP32, Arduino IDE**, and open-source libraries.
 > *()*
 
 ---
+
+## License
+---
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+---
