@@ -82,6 +82,7 @@ The code is written in **Arduino (C++)**, using the following libraries:
 - Replace DHT11 with **DHT22** or **BME280** for better accuracy and more data.
 - Integrate with **WiFi** or **Bluetooth** to remotely view sensor data.
 - Add an **OLED display** for better graphics.
+- Firebase integration for storing the data.
 
 ---
 
@@ -91,8 +92,10 @@ Built using **ESP32, Arduino IDE**, and open-source libraries.
 
 ---
 
-## Project Images
-> *()*
+## Project Images(3d view)
+Check this out.
+![PCB Layout](assets/3D-view.png)
+> *(inside Kicad and one component is missing)*
 
 ---
 ### KiCad PCB Layout
